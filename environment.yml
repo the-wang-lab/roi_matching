@@ -1,0 +1,12 @@
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - networkx
+  - pystackreg
+  - cupy
+  - joblib
+  - imageio
